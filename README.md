@@ -2,16 +2,17 @@
 Basics of Scala Progarmming
 
 **Scala Topics:**
-Higher order function
-Partial Functions
-Ordered Trait
-Assertion,ensuring,require functions for object creation
-Tail recursion
-Collections - mutable and immutable
-implicits
-type inference
-pattern matching
-Future/Promise
+1.Higher order function
+2.Partial Functions
+3.Ordered Trait
+4.Assertion,ensuring,require functions for object creation
+5.Tail recursion
+6.Collections - mutable and immutable
+7.implicits
+8.type inference
+9.pattern matching
+10.Future/Promise
+11.Closure,function currying,By-value parameters
 
 
 
