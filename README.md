@@ -39,6 +39,8 @@ Basics of Scala Progarmming
 # Quries/Doubts
 1. What is currying? When we will use it?
 2. Difference between parital functions and partially applied functions.
+3. How to use higher order functions while working with collections.
+
 
 
 
